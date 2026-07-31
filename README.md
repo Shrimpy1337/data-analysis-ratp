@@ -37,11 +37,10 @@ jupyter notebook analyse_trafic_ratp.ipynb
 
 ## 📈 Résultats clés
 
-*(à compléter après exécution du notebook sur les données)*
 
-- Station la plus fréquentée : —
-- Part du trafic total concentrée par le top 10 des stations : —
-- Écart de fréquentation entre métro et RER : —
+- Station la plus fréquentée : Gare du Nord, avec 34 503 097 entrées annuelles.
+- Part du trafic total concentrée par le top 10 des stations : les 10 stations les plus fréquentées (Gare du Nord, Saint-Lazare, Gare du Nord-RER, Gare de Lyon, Gare de Lyon-RER, Châtelet-Les Halles-RER, Montparnasse-Bienvenüe, La Défense-RER, Nanterre-Préfecture, Gare de l'Est) totalisent environ 250 millions d'entrées, soit près de 20 % du trafic total du réseau, alors qu'elles représentent moins de 3 % des 371 stations étudiées.
+- Écart de fréquentation entre métro et RER : les deux réseaux ont une médiane de trafic très proche (~2,3 millions d'entrées par station), mais le RER présente une queue de distribution un peu plus étirée vers le haut, portée par les grandes gares d'interconnexion (Châtelet-Les Halles, La Défense, Gare de Lyon-RER).
 
 ## 👤 Auteur
 
